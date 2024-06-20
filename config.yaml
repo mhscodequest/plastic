@@ -1,0 +1,7 @@
+path: /Users/daniel/Code/club/plasticbags/data
+train: images/train
+val: images/train
+
+# Classes
+names:
+  0: plastic_bag
